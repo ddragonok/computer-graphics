@@ -1,0 +1,78 @@
+I:\Projects\Directx_Depth\Directx_Depth\bin\Debug\Directx_Depth.exe
+I:\Projects\Directx_Depth\Directx_Depth\bin\Debug\Directx_Depth.pdb
+I:\Projects\Directx_Depth\Directx_Depth\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Projects\Directx_Depth\Directx_Depth\obj\x86\Debug\Directx_Depth.Properties.Resources.resources
+I:\Projects\Directx_Depth\Directx_Depth\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+I:\Projects\Directx_Depth\Directx_Depth\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+I:\Projects\Directx_Depth\Directx_Depth\obj\x86\Debug\Directx_Depth.exe
+I:\Projects\Directx_Depth\Directx_Depth\obj\x86\Debug\Directx_Depth.pdb
+C:\Users\Denis\source\repos\Directx_Depth\Directx_Depth\obj\x86\Debug\Directx_Depth.Properties.Resources.resources
+C:\Users\Denis\source\repos\Directx_Depth\Directx_Depth\obj\x86\Debug\Directx_Depth.csproj.GenerateResource.cache
+C:\Users\Denis\source\repos\Directx_Depth\Directx_Depth\obj\x86\Debug\Directx_Depth.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\Directx_Depth\Directx_Depth\obj\x86\Debug\Directx_Depth.exe
+C:\Users\Denis\source\repos\Directx_Depth\Directx_Depth\obj\x86\Debug\Directx_Depth.pdb
+C:\Users\Denis\source\repos\Directx_Depth\Directx_Depth\bin\Debug\Directx_Depth.exe
+C:\Users\Denis\source\repos\Directx_Depth\Directx_Depth\bin\Debug\Directx_Depth.pdb
+C:\Users\Denis\source\repos\Directx_Depth\Directx_Depth\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Denis\source\repos\Directx_Depth\Directx_Depth\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Denis\source\repos\Directx_Depth\Directx_Depth\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Denis\source\repos\Directx_Depth\Directx_Depth\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Denis\source\repos\Directx_Depth\Directx_Depth\obj\x86\Debug\Directx_Depth.csproj.CopyComplete
+C:\Users\Denis\source\repos\Directx_Depth\Directx_Depth\obj\x86\Debug\Directx_Depth.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\Directx_Depth\Directx_Depth\obj\x86\Debug\Directx_Depth.Form1.resources
+C:\Users\ddrag\OneDrive\Рабочий стол\Directx_Depth\Directx_Depth\bin\Debug\Directx_Depth.exe
+C:\Users\ddrag\OneDrive\Рабочий стол\Directx_Depth\Directx_Depth\bin\Debug\Directx_Depth.pdb
+C:\Users\ddrag\OneDrive\Рабочий стол\Directx_Depth\Directx_Depth\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\ddrag\OneDrive\Рабочий стол\Directx_Depth\Directx_Depth\bin\Debug\Microsoft.DirectX.dll
+C:\Users\ddrag\OneDrive\Рабочий стол\Directx_Depth\Directx_Depth\bin\Debug\Microsoft.DirectX.xml
+C:\Users\ddrag\OneDrive\Рабочий стол\Directx_Depth\Directx_Depth\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\ddrag\OneDrive\Рабочий стол\Directx_Depth\Directx_Depth\obj\x86\Debug\Directx_Depth.csprojAssemblyReference.cache
+C:\Users\ddrag\OneDrive\Рабочий стол\Directx_Depth\Directx_Depth\obj\x86\Debug\Directx_Depth.Form1.resources
+C:\Users\ddrag\OneDrive\Рабочий стол\Directx_Depth\Directx_Depth\obj\x86\Debug\Directx_Depth.Properties.Resources.resources
+C:\Users\ddrag\OneDrive\Рабочий стол\Directx_Depth\Directx_Depth\obj\x86\Debug\Directx_Depth.csproj.GenerateResource.cache
+C:\Users\ddrag\OneDrive\Рабочий стол\Directx_Depth\Directx_Depth\obj\x86\Debug\Directx_Depth.csproj.CoreCompileInputs.cache
+C:\Users\ddrag\OneDrive\Рабочий стол\Directx_Depth\Directx_Depth\obj\x86\Debug\Directx_Depth.csproj.CopyComplete
+C:\Users\ddrag\OneDrive\Рабочий стол\Directx_Depth\Directx_Depth\obj\x86\Debug\Directx_Depth.exe
+C:\Users\ddrag\OneDrive\Рабочий стол\Directx_Depth\Directx_Depth\obj\x86\Debug\Directx_Depth.pdb
+C:\Users\ddrag\OneDrive\Рабочий стол\lab_4\Directx_Depth\bin\Debug\Directx_Depth.exe
+C:\Users\ddrag\OneDrive\Рабочий стол\lab_4\Directx_Depth\bin\Debug\Directx_Depth.pdb
+C:\Users\ddrag\OneDrive\Рабочий стол\lab_4\Directx_Depth\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\ddrag\OneDrive\Рабочий стол\lab_4\Directx_Depth\bin\Debug\Microsoft.DirectX.dll
+C:\Users\ddrag\OneDrive\Рабочий стол\lab_4\Directx_Depth\bin\Debug\Microsoft.DirectX.xml
+C:\Users\ddrag\OneDrive\Рабочий стол\lab_4\Directx_Depth\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\ddrag\OneDrive\Рабочий стол\lab_4\Directx_Depth\obj\x86\Debug\Directx_Depth.csprojAssemblyReference.cache
+C:\Users\ddrag\OneDrive\Рабочий стол\lab_4\Directx_Depth\obj\x86\Debug\Directx_Depth.Form1.resources
+C:\Users\ddrag\OneDrive\Рабочий стол\lab_4\Directx_Depth\obj\x86\Debug\Directx_Depth.Properties.Resources.resources
+C:\Users\ddrag\OneDrive\Рабочий стол\lab_4\Directx_Depth\obj\x86\Debug\Directx_Depth.csproj.GenerateResource.cache
+C:\Users\ddrag\OneDrive\Рабочий стол\lab_4\Directx_Depth\obj\x86\Debug\Directx_Depth.csproj.CoreCompileInputs.cache
+C:\Users\ddrag\OneDrive\Рабочий стол\lab_4\Directx_Depth\obj\x86\Debug\Directx_Depth.csproj.CopyComplete
+C:\Users\ddrag\OneDrive\Рабочий стол\lab_4\Directx_Depth\obj\x86\Debug\Directx_Depth.exe
+C:\Users\ddrag\OneDrive\Рабочий стол\lab_4\Directx_Depth\obj\x86\Debug\Directx_Depth.pdb
+C:\Users\ddrag\OneDrive\Рабочий стол\1-4\lab_4\Directx_Depth\bin\Debug\Directx_Depth.exe
+C:\Users\ddrag\OneDrive\Рабочий стол\1-4\lab_4\Directx_Depth\bin\Debug\Directx_Depth.pdb
+C:\Users\ddrag\OneDrive\Рабочий стол\1-4\lab_4\Directx_Depth\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\ddrag\OneDrive\Рабочий стол\1-4\lab_4\Directx_Depth\bin\Debug\Microsoft.DirectX.dll
+C:\Users\ddrag\OneDrive\Рабочий стол\1-4\lab_4\Directx_Depth\bin\Debug\Microsoft.DirectX.xml
+C:\Users\ddrag\OneDrive\Рабочий стол\1-4\lab_4\Directx_Depth\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\ddrag\OneDrive\Рабочий стол\1-4\lab_4\Directx_Depth\obj\x86\Debug\Directx_Depth.csprojAssemblyReference.cache
+C:\Users\ddrag\OneDrive\Рабочий стол\1-4\lab_4\Directx_Depth\obj\x86\Debug\Directx_Depth.Form1.resources
+C:\Users\ddrag\OneDrive\Рабочий стол\1-4\lab_4\Directx_Depth\obj\x86\Debug\Directx_Depth.Properties.Resources.resources
+C:\Users\ddrag\OneDrive\Рабочий стол\1-4\lab_4\Directx_Depth\obj\x86\Debug\Directx_Depth.csproj.GenerateResource.cache
+C:\Users\ddrag\OneDrive\Рабочий стол\1-4\lab_4\Directx_Depth\obj\x86\Debug\Directx_Depth.csproj.CoreCompileInputs.cache
+C:\Users\ddrag\OneDrive\Рабочий стол\1-4\lab_4\Directx_Depth\obj\x86\Debug\Directx_Depth.csproj.CopyComplete
+C:\Users\ddrag\OneDrive\Рабочий стол\1-4\lab_4\Directx_Depth\obj\x86\Debug\Directx_Depth.exe
+C:\Users\ddrag\OneDrive\Рабочий стол\1-4\lab_4\Directx_Depth\obj\x86\Debug\Directx_Depth.pdb
+C:\Users\ddrag\OneDrive\Рабочий стол\3-4\lab_4\Directx_Depth\bin\Debug\Directx_Depth.exe
+C:\Users\ddrag\OneDrive\Рабочий стол\3-4\lab_4\Directx_Depth\bin\Debug\Directx_Depth.pdb
+C:\Users\ddrag\OneDrive\Рабочий стол\3-4\lab_4\Directx_Depth\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\ddrag\OneDrive\Рабочий стол\3-4\lab_4\Directx_Depth\bin\Debug\Microsoft.DirectX.dll
+C:\Users\ddrag\OneDrive\Рабочий стол\3-4\lab_4\Directx_Depth\bin\Debug\Microsoft.DirectX.xml
+C:\Users\ddrag\OneDrive\Рабочий стол\3-4\lab_4\Directx_Depth\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\ddrag\OneDrive\Рабочий стол\3-4\lab_4\Directx_Depth\obj\x86\Debug\Directx_Depth.csprojAssemblyReference.cache
+C:\Users\ddrag\OneDrive\Рабочий стол\3-4\lab_4\Directx_Depth\obj\x86\Debug\Directx_Depth.Form1.resources
+C:\Users\ddrag\OneDrive\Рабочий стол\3-4\lab_4\Directx_Depth\obj\x86\Debug\Directx_Depth.Properties.Resources.resources
+C:\Users\ddrag\OneDrive\Рабочий стол\3-4\lab_4\Directx_Depth\obj\x86\Debug\Directx_Depth.csproj.GenerateResource.cache
+C:\Users\ddrag\OneDrive\Рабочий стол\3-4\lab_4\Directx_Depth\obj\x86\Debug\Directx_Depth.csproj.CoreCompileInputs.cache
+C:\Users\ddrag\OneDrive\Рабочий стол\3-4\lab_4\Directx_Depth\obj\x86\Debug\Directx_Depth.csproj.CopyComplete
+C:\Users\ddrag\OneDrive\Рабочий стол\3-4\lab_4\Directx_Depth\obj\x86\Debug\Directx_Depth.exe
+C:\Users\ddrag\OneDrive\Рабочий стол\3-4\lab_4\Directx_Depth\obj\x86\Debug\Directx_Depth.pdb
