@@ -1,0 +1,93 @@
+G:\Projects\Directx_net_2\Directx_net_2\bin\Debug\Directx_net_2.exe
+G:\Projects\Directx_net_2\Directx_net_2\bin\Debug\Directx_net_2.pdb
+G:\Projects\Directx_net_2\Directx_net_2\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Projects\Directx_net_2\Directx_net_2\obj\x86\Debug\Directx_net_2.Properties.Resources.resources
+G:\Projects\Directx_net_2\Directx_net_2\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Projects\Directx_net_2\Directx_net_2\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Projects\Directx_net_2\Directx_net_2\obj\x86\Debug\Directx_net_2.exe
+G:\Projects\Directx_net_2\Directx_net_2\obj\x86\Debug\Directx_net_2.pdb
+G:\Projects\Directx_net_2\Directx_net_2\bin\Debug\Directx_net_2.exe.config
+G:\Projects\Directx_net_2\Directx_net_2\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\Projects\Directx_net_2\Directx_net_2\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+H:\Projects\Directx_net_2\Directx_net_2\bin\Debug\Directx_net_2.exe.config
+H:\Projects\Directx_net_2\Directx_net_2\obj\x86\Debug\Directx_net_2.exe
+H:\Projects\Directx_net_2\Directx_net_2\obj\x86\Debug\Directx_net_2.pdb
+H:\Projects\Directx_net_2\Directx_net_2\bin\Debug\Directx_net_2.exe
+H:\Projects\Directx_net_2\Directx_net_2\bin\Debug\Directx_net_2.pdb
+H:\Projects\Directx_net_2\Directx_net_2\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Projects\Directx_net_2\Directx_net_2\obj\x86\Debug\Directx_net_2.Properties.Resources.resources
+H:\Projects\Directx_net_2\Directx_net_2\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+H:\Projects\Directx_net_2\Directx_net_2\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Projects\Directx_net_2\Directx_net_2\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+H:\Projects\Directx_net_2\Directx_net_2\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Projects\Directx_net_2\Directx_net_2\bin\Debug\Directx_net_2.exe.config
+I:\Projects\Directx_net_2\Directx_net_2\obj\x86\Debug\Directx_net_2.exe
+I:\Projects\Directx_net_2\Directx_net_2\obj\x86\Debug\Directx_net_2.pdb
+I:\Projects\Directx_net_2\Directx_net_2\bin\Debug\Directx_net_2.exe
+I:\Projects\Directx_net_2\Directx_net_2\bin\Debug\Directx_net_2.pdb
+I:\Projects\Directx_net_2\Directx_net_2\obj\x86\Debug\Directx_net_2.csprojResolveAssemblyReference.cache
+I:\Projects\Directx_net_2\Directx_net_2\obj\x86\Debug\Directx_net_2.Properties.Resources.resources
+I:\Projects\Directx_net_2\Directx_net_2\obj\x86\Debug\Directx_net_2.csproj.GenerateResource.Cache
+F:\Projects\Directx_net_2\Directx_net_2\obj\x86\Debug\Directx_net_2.csprojAssemblyReference.cache
+F:\Projects\Directx_net_2\Directx_net_2\obj\x86\Debug\Directx_net_2.Properties.Resources.resources
+F:\Projects\Directx_net_2\Directx_net_2\obj\x86\Debug\Directx_net_2.csproj.GenerateResource.cache
+F:\Projects\Directx_net_2\Directx_net_2\obj\x86\Debug\Directx_net_2.csproj.CoreCompileInputs.cache
+F:\Projects\Directx_net_2\Directx_net_2\obj\x86\Debug\Directx_net_2.exe
+F:\Projects\Directx_net_2\Directx_net_2\obj\x86\Debug\Directx_net_2.pdb
+F:\Projects\Directx_net_2\Directx_net_2\bin\Debug\Directx_net_2.exe.config
+F:\Projects\Directx_net_2\Directx_net_2\bin\Debug\Directx_net_2.exe
+F:\Projects\Directx_net_2\Directx_net_2\bin\Debug\Directx_net_2.pdb
+F:\Projects\Directx_net_2\Directx_net_2\bin\Debug\Microsoft.DirectX.Direct3D.dll
+F:\Projects\Directx_net_2\Directx_net_2\bin\Debug\Microsoft.DirectX.dll
+F:\Projects\Directx_net_2\Directx_net_2\bin\Debug\Microsoft.DirectX.xml
+F:\Projects\Directx_net_2\Directx_net_2\bin\Debug\Microsoft.DirectX.Direct3D.xml
+F:\Projects\Directx_net_2\Directx_net_2\obj\x86\Debug\Directx_net_2.csproj.CopyComplete
+F:\Projects\Directx_net_2\Directx_net_2\bin\Debug\Microsoft.VisualC.dll
+C:\Users\ddrag\OneDrive\Рабочий стол\Directx_net_2\Directx_net_2\bin\Debug\Directx_net_2.exe.config
+C:\Users\ddrag\OneDrive\Рабочий стол\Directx_net_2\Directx_net_2\bin\Debug\Directx_net_2.exe
+C:\Users\ddrag\OneDrive\Рабочий стол\Directx_net_2\Directx_net_2\bin\Debug\Directx_net_2.pdb
+C:\Users\ddrag\OneDrive\Рабочий стол\Directx_net_2\Directx_net_2\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\ddrag\OneDrive\Рабочий стол\Directx_net_2\Directx_net_2\bin\Debug\Microsoft.DirectX.dll
+C:\Users\ddrag\OneDrive\Рабочий стол\Directx_net_2\Directx_net_2\bin\Debug\Microsoft.VisualC.dll
+C:\Users\ddrag\OneDrive\Рабочий стол\Directx_net_2\Directx_net_2\bin\Debug\Microsoft.DirectX.xml
+C:\Users\ddrag\OneDrive\Рабочий стол\Directx_net_2\Directx_net_2\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\ddrag\OneDrive\Рабочий стол\Directx_net_2\Directx_net_2\obj\x86\Debug\Directx_net_2.csprojAssemblyReference.cache
+C:\Users\ddrag\OneDrive\Рабочий стол\Directx_net_2\Directx_net_2\obj\x86\Debug\Directx_net_2.Properties.Resources.resources
+C:\Users\ddrag\OneDrive\Рабочий стол\Directx_net_2\Directx_net_2\obj\x86\Debug\Directx_net_2.csproj.GenerateResource.cache
+C:\Users\ddrag\OneDrive\Рабочий стол\Directx_net_2\Directx_net_2\obj\x86\Debug\Directx_net_2.csproj.CopyComplete
+C:\Users\ddrag\OneDrive\Рабочий стол\Directx_net_2\Directx_net_2\obj\x86\Debug\Directx_net_2.exe
+C:\Users\ddrag\OneDrive\Рабочий стол\Directx_net_2\Directx_net_2\obj\x86\Debug\Directx_net_2.pdb
+C:\Users\ddrag\OneDrive\Рабочий стол\Directx_net_2\Directx_net_2\obj\x86\Debug\Directx_Light.Form1.resources
+C:\Users\ddrag\OneDrive\Рабочий стол\Directx_net_2\Directx_net_2\obj\x86\Debug\Directx_net_2.csproj.CoreCompileInputs.cache
+C:\Users\ddrag\OneDrive\Рабочий стол\lab_1\Directx_net_2\bin\Debug\Directx_net_2.exe.config
+C:\Users\ddrag\OneDrive\Рабочий стол\lab_1\Directx_net_2\bin\Debug\Directx_net_2.exe
+C:\Users\ddrag\OneDrive\Рабочий стол\lab_1\Directx_net_2\bin\Debug\Directx_net_2.pdb
+C:\Users\ddrag\OneDrive\Рабочий стол\lab_1\Directx_net_2\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\ddrag\OneDrive\Рабочий стол\lab_1\Directx_net_2\bin\Debug\Microsoft.DirectX.dll
+C:\Users\ddrag\OneDrive\Рабочий стол\lab_1\Directx_net_2\bin\Debug\Microsoft.VisualC.dll
+C:\Users\ddrag\OneDrive\Рабочий стол\lab_1\Directx_net_2\bin\Debug\Microsoft.DirectX.xml
+C:\Users\ddrag\OneDrive\Рабочий стол\lab_1\Directx_net_2\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\ddrag\OneDrive\Рабочий стол\lab_1\Directx_net_2\obj\x86\Debug\Directx_net_2.csprojAssemblyReference.cache
+C:\Users\ddrag\OneDrive\Рабочий стол\lab_1\Directx_net_2\obj\x86\Debug\Directx_Light.Form1.resources
+C:\Users\ddrag\OneDrive\Рабочий стол\lab_1\Directx_net_2\obj\x86\Debug\Directx_net_2.Properties.Resources.resources
+C:\Users\ddrag\OneDrive\Рабочий стол\lab_1\Directx_net_2\obj\x86\Debug\Directx_net_2.csproj.GenerateResource.cache
+C:\Users\ddrag\OneDrive\Рабочий стол\lab_1\Directx_net_2\obj\x86\Debug\Directx_net_2.csproj.CoreCompileInputs.cache
+C:\Users\ddrag\OneDrive\Рабочий стол\lab_1\Directx_net_2\obj\x86\Debug\Directx_net_2.csproj.CopyComplete
+C:\Users\ddrag\OneDrive\Рабочий стол\lab_1\Directx_net_2\obj\x86\Debug\Directx_net_2.exe
+C:\Users\ddrag\OneDrive\Рабочий стол\lab_1\Directx_net_2\obj\x86\Debug\Directx_net_2.pdb
+C:\Users\ddrag\OneDrive\Рабочий стол\1-4\lab_1\Directx_net_2\bin\Debug\Directx_net_2.exe.config
+C:\Users\ddrag\OneDrive\Рабочий стол\1-4\lab_1\Directx_net_2\bin\Debug\Directx_net_2.exe
+C:\Users\ddrag\OneDrive\Рабочий стол\1-4\lab_1\Directx_net_2\bin\Debug\Directx_net_2.pdb
+C:\Users\ddrag\OneDrive\Рабочий стол\1-4\lab_1\Directx_net_2\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\ddrag\OneDrive\Рабочий стол\1-4\lab_1\Directx_net_2\bin\Debug\Microsoft.DirectX.dll
+C:\Users\ddrag\OneDrive\Рабочий стол\1-4\lab_1\Directx_net_2\bin\Debug\Microsoft.VisualC.dll
+C:\Users\ddrag\OneDrive\Рабочий стол\1-4\lab_1\Directx_net_2\bin\Debug\Microsoft.DirectX.xml
+C:\Users\ddrag\OneDrive\Рабочий стол\1-4\lab_1\Directx_net_2\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\ddrag\OneDrive\Рабочий стол\1-4\lab_1\Directx_net_2\obj\x86\Debug\Directx_net_2.csprojAssemblyReference.cache
+C:\Users\ddrag\OneDrive\Рабочий стол\1-4\lab_1\Directx_net_2\obj\x86\Debug\Directx_Light.Form1.resources
+C:\Users\ddrag\OneDrive\Рабочий стол\1-4\lab_1\Directx_net_2\obj\x86\Debug\Directx_net_2.Properties.Resources.resources
+C:\Users\ddrag\OneDrive\Рабочий стол\1-4\lab_1\Directx_net_2\obj\x86\Debug\Directx_net_2.csproj.GenerateResource.cache
+C:\Users\ddrag\OneDrive\Рабочий стол\1-4\lab_1\Directx_net_2\obj\x86\Debug\Directx_net_2.csproj.CoreCompileInputs.cache
+C:\Users\ddrag\OneDrive\Рабочий стол\1-4\lab_1\Directx_net_2\obj\x86\Debug\Directx_net_2.csproj.CopyComplete
+C:\Users\ddrag\OneDrive\Рабочий стол\1-4\lab_1\Directx_net_2\obj\x86\Debug\Directx_net_2.exe
+C:\Users\ddrag\OneDrive\Рабочий стол\1-4\lab_1\Directx_net_2\obj\x86\Debug\Directx_net_2.pdb
